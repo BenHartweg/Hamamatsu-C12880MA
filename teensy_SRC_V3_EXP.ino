@@ -200,7 +200,7 @@ void CodeRunner() {
 
 void EOS_isr(){
 spectrumReady = true; 
-i = 0;
+position = 0;
 
 }
 
